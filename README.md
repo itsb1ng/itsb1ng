@@ -1,1 +1,1 @@
-[![Developer](https://skillicons.dev/icons?i=aws,py,mysql,js,html,css,wasm)](https://skillicons.dev)
+[![Developer](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com)[![Developer](https://skillicons.dev/icons?i=py)](https://python.org)[![Developer](https://skillicons.dev/icons?i=mysql)](https://mysql.com)[![Developer](https://skillicons.dev/icons?i=js)](https://javascript.com)[![Developer](https://skillicons.dev/icons?i=html)](https://html.com)[![Developer](https://skillicons.dev/icons?i=css)](https://html.com)
